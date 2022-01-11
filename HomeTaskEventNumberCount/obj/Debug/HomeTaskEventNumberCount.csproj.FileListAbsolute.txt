@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\obj\Debug\HomeTaskEventNumberCount.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\obj\Debug\HomeTaskEventNumberCount.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\obj\Debug\HomeTaskEventNumberCount.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\bin\Debug\HomeTaskEventNumberCount.exe.config
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\bin\Debug\HomeTaskEventNumberCount.exe
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\bin\Debug\HomeTaskEventNumberCount.pdb
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\obj\Debug\HomeTaskEventNumberCount.exe
+E:\Users\Valcom\source\repos\HomeTaskEventNumberCount\obj\Debug\HomeTaskEventNumberCount.pdb
