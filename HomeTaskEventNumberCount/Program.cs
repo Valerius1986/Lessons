@@ -14,7 +14,7 @@ namespace HomeTaskEventNumberCount
             int evenCount = 0;
             int oddCount = 0;
 
-            Console.WriteLine("Введите диапазон чисел в котором будет подсчитываться количество чётных и нечётных чисел: ");
+            Console.WriteLine("Введите диапазон чисел в котором будет подсчитываться количество чётных и нечётных чисел: 12");
             int limit = int.Parse(Console.ReadLine());
 
             while (count < limit)
