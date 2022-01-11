@@ -10,31 +10,40 @@ namespace HomeTaskEventNumberCount
     {
         static void Main(string[] args)
         {
-            int count =0;
+            
             int evenCount = 0;
             int oddCount = 0;
 
-            Console.WriteLine("Введите диапазон чисел в котором будет подсчитываться количество чётных и нечётных чисел: ");
-            int limit = int.Parse(Console.ReadLine());
+            int evenSum = 0;
+            int oddSum = 0;
 
-            while (count < limit)
+            Console.WriteLine("Введите первое число диапазона чисел в котором будет подсчитываться количество чётных и нечётных чисел: ");
+            int startValue = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Введите второе число диапазона: ");
+            int limitValue = int.Parse(Console.ReadLine());
+
+            while (startValue < limitValue)
             {
-                count++;
-                if (count % 2 == 0)
+                startValue++;
+                if (startValue % 2 == 0)
                 {
                     evenCount++;
+                    evenSum += startValue;
                 }
                 else
                 {
                     oddCount++;
+                    oddSum = oddSum + startValue;
                 }
                 
             }
 
-            Console.Clear();
-            Console.WriteLine("В диапазоне чисел от 0 до " + limit + ".");
             Console.WriteLine("Чётных чисел: " + evenCount);
             Console.WriteLine("Нечётных чисел: " + oddCount);
+            Console.WriteLine("Сумма чётных чисел: " + evenSum);
+            Console.WriteLine("Сумма нечётных чисел: " + oddSum);
+            Console.ReadLine();
         }
     }
 }
