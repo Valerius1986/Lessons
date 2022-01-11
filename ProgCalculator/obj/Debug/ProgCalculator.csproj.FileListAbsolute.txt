@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\ProgCalculator\bin\Debug\ProgCalculator.exe.config
+E:\Users\Valcom\source\repos\ProgCalculator\bin\Debug\ProgCalculator.exe
+E:\Users\Valcom\source\repos\ProgCalculator\bin\Debug\ProgCalculator.pdb
+E:\Users\Valcom\source\repos\ProgCalculator\obj\Debug\ProgCalculator.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\ProgCalculator\obj\Debug\ProgCalculator.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\ProgCalculator\obj\Debug\ProgCalculator.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\ProgCalculator\obj\Debug\ProgCalculator.exe
+E:\Users\Valcom\source\repos\ProgCalculator\obj\Debug\ProgCalculator.pdb

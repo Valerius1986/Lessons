@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\example\bin\Debug\example.exe.config
+E:\Users\Valcom\source\repos\example\bin\Debug\example.exe
+E:\Users\Valcom\source\repos\example\bin\Debug\example.pdb
+E:\Users\Valcom\source\repos\example\obj\Debug\example.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\example\obj\Debug\example.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\example\obj\Debug\example.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\example\obj\Debug\example.exe
+E:\Users\Valcom\source\repos\example\obj\Debug\example.pdb

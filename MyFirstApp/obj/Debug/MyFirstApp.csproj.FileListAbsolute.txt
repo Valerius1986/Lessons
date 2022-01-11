@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+E:\Users\Valcom\source\repos\MyFirstApp\bin\Debug\MyFirstApp.exe
+E:\Users\Valcom\source\repos\MyFirstApp\bin\Debug\MyFirstApp.pdb
+E:\Users\Valcom\source\repos\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\MyFirstApp\obj\Debug\MyFirstApp.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\MyFirstApp\obj\Debug\MyFirstApp.exe
+E:\Users\Valcom\source\repos\MyFirstApp\obj\Debug\MyFirstApp.pdb

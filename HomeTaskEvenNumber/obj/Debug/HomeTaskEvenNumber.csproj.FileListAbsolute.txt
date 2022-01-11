@@ -1,0 +1,7 @@
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\bin\Debug\HomeTaskEvenNumber.exe.config
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\bin\Debug\HomeTaskEvenNumber.exe
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\bin\Debug\HomeTaskEvenNumber.pdb
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\obj\Debug\HomeTaskEvenNumber.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\obj\Debug\HomeTaskEvenNumber.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\obj\Debug\HomeTaskEvenNumber.exe
+E:\Users\Valcom\source\repos\HomeTaskEvenNumber\obj\Debug\HomeTaskEvenNumber.pdb
