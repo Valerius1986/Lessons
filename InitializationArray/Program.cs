@@ -20,7 +20,7 @@ namespace InitializationArray
 
             //int[] myArray = new [5] { 5, 5, 6, 4, 5 };
 
-            //int[] myArray = { 5, 5, 6, 4, 5 }; 
+            int[] myArray = { 5, 5, 6, 4, 5 }; 
 
             //int[] myArray = Enumerable.Repeat(5, 10).ToArray();
 
