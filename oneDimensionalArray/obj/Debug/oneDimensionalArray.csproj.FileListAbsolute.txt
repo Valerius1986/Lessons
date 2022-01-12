@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\oneDimensionalArray\obj\Debug\oneDimensionalArray.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\oneDimensionalArray\obj\Debug\oneDimensionalArray.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\oneDimensionalArray\obj\Debug\oneDimensionalArray.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\oneDimensionalArray\bin\Debug\oneDimensionalArray.exe.config
+E:\Users\Valcom\source\repos\oneDimensionalArray\bin\Debug\oneDimensionalArray.exe
+E:\Users\Valcom\source\repos\oneDimensionalArray\bin\Debug\oneDimensionalArray.pdb
+E:\Users\Valcom\source\repos\oneDimensionalArray\obj\Debug\oneDimensionalArray.exe
+E:\Users\Valcom\source\repos\oneDimensionalArray\obj\Debug\oneDimensionalArray.pdb

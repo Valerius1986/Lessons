@@ -1,0 +1,7 @@
+E:\Users\Valcom\source\repos\ternarOperator\bin\Debug\ternarOperator.exe.config
+E:\Users\Valcom\source\repos\ternarOperator\bin\Debug\ternarOperator.exe
+E:\Users\Valcom\source\repos\ternarOperator\bin\Debug\ternarOperator.pdb
+E:\Users\Valcom\source\repos\ternarOperator\obj\Debug\ternarOperator.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\ternarOperator\obj\Debug\ternarOperator.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\ternarOperator\obj\Debug\ternarOperator.exe
+E:\Users\Valcom\source\repos\ternarOperator\obj\Debug\ternarOperator.pdb

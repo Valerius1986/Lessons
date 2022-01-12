@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\ArrayOutput\obj\Debug\ArrayOutput.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\ArrayOutput\obj\Debug\ArrayOutput.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\ArrayOutput\obj\Debug\ArrayOutput.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\ArrayOutput\bin\Debug\ArrayOutput.exe.config
+E:\Users\Valcom\source\repos\ArrayOutput\bin\Debug\ArrayOutput.exe
+E:\Users\Valcom\source\repos\ArrayOutput\bin\Debug\ArrayOutput.pdb
+E:\Users\Valcom\source\repos\ArrayOutput\obj\Debug\ArrayOutput.exe
+E:\Users\Valcom\source\repos\ArrayOutput\obj\Debug\ArrayOutput.pdb

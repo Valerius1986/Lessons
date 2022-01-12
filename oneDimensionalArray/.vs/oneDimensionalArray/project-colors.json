@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ead22d8b-016f-4e67-83bd-ac5a180fded9": {
+      "ProjectGuid": "ead22d8b-016f-4e67-83bd-ac5a180fded9",
+      "DisplayName": "oneDimensionalArray",
+      "ColorIndex": 0
+    },
+    "4efdf7f2-fa78-463d-92b3-e8daa9b4e1a8": {
+      "ProjectGuid": "4efdf7f2-fa78-463d-92b3-e8daa9b4e1a8",
+      "DisplayName": "InitializationArray",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

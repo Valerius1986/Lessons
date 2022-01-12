@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66317fb4-28ce-4e37-b129-5e5dbfc642de": {
+      "ProjectGuid": "66317fb4-28ce-4e37-b129-5e5dbfc642de",
+      "DisplayName": "CheckPassword",
+      "ColorIndex": 0
+    },
+    "714f53e9-0b1d-4a3c-83fd-1f6ddf9689f1": {
+      "ProjectGuid": "714f53e9-0b1d-4a3c-83fd-1f6ddf9689f1",
+      "DisplayName": "ternarOperator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

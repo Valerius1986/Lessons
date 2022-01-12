@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0233efa5-4185-4624-b04d-c3632d9b1f55": {
+      "ProjectGuid": "0233efa5-4185-4624-b04d-c3632d9b1f55",
+      "DisplayName": "Triangles",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\Triangles\bin\Debug\Triangles.exe.config
+E:\Users\Valcom\source\repos\Triangles\bin\Debug\Triangles.exe
+E:\Users\Valcom\source\repos\Triangles\bin\Debug\Triangles.pdb
+E:\Users\Valcom\source\repos\Triangles\obj\Debug\Triangles.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\Triangles\obj\Debug\Triangles.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\Triangles\obj\Debug\Triangles.exe
+E:\Users\Valcom\source\repos\Triangles\obj\Debug\Triangles.pdb
