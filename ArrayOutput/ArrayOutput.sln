@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOutput", "ArrayOutput.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskArray1", "..\HomeTaskArray1\HomeTaskArray1.csproj", "{F8C45C0A-EEE9-4620-AE1F-909C01094B08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskArray1v2", "..\HomeTaskArray1v2\HomeTaskArray1v2.csproj", "{A0529B43-0468-483E-BCDE-5716D81463F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTaskArray1v3", "..\HomeTaskArray1v3\HomeTaskArray1v3.csproj", "{510B5F9D-4808-4666-BE1D-B03088799E0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F8C45C0A-EEE9-4620-AE1F-909C01094B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8C45C0A-EEE9-4620-AE1F-909C01094B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8C45C0A-EEE9-4620-AE1F-909C01094B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0529B43-0468-483E-BCDE-5716D81463F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0529B43-0468-483E-BCDE-5716D81463F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0529B43-0468-483E-BCDE-5716D81463F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0529B43-0468-483E-BCDE-5716D81463F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510B5F9D-4808-4666-BE1D-B03088799E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510B5F9D-4808-4666-BE1D-B03088799E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510B5F9D-4808-4666-BE1D-B03088799E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510B5F9D-4808-4666-BE1D-B03088799E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

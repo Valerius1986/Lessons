@@ -1,0 +1,8 @@
+E:\Users\Valcom\source\repos\HomeTaskArray1\bin\Debug\HomeTaskArray1.exe.config
+E:\Users\Valcom\source\repos\HomeTaskArray1\bin\Debug\HomeTaskArray1.exe
+E:\Users\Valcom\source\repos\HomeTaskArray1\bin\Debug\HomeTaskArray1.pdb
+E:\Users\Valcom\source\repos\HomeTaskArray1\obj\Debug\HomeTaskArray1.csproj.AssemblyReference.cache
+E:\Users\Valcom\source\repos\HomeTaskArray1\obj\Debug\HomeTaskArray1.csproj.SuggestedBindingRedirects.cache
+E:\Users\Valcom\source\repos\HomeTaskArray1\obj\Debug\HomeTaskArray1.csproj.CoreCompileInputs.cache
+E:\Users\Valcom\source\repos\HomeTaskArray1\obj\Debug\HomeTaskArray1.exe
+E:\Users\Valcom\source\repos\HomeTaskArray1\obj\Debug\HomeTaskArray1.pdb
