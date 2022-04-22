@@ -1,0 +1,45 @@
+using System;
+
+namespace HomeWork1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // 1. Запросить имя пользователя. Вывести Hello, [имя пользователя].
+
+            Console.WriteLine("Enter your name:");
+            string userName = Console.ReadLine();
+            string sentence = $"Hello, {userName}.";
+            Console.WriteLine(sentence);
+            Console.WriteLine();
+
+            // 2. Запросить у пользователя два целых числа и сохранить в двух переменных. Вывести значения.
+            //Обменять значения переменных: например, если в переменной x было записано число 3, а в y число 5,&nbsp;
+            //сделать так, чтобы в y стало 3, а в x стало 5.Вывести значения после обмена.
+
+            Console.WriteLine("Enter first number:");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter second number:");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine($"Your numbers is first = {num1} and second = {num2}");
+
+            int emptyNum = num1;
+            num1 = num2;
+            num2 = emptyNum;
+
+            Console.WriteLine($"Now your numbers is first = {num1} and second = {num2}");
+            Console.WriteLine();
+
+            // 3. Запросить у пользователя целое число. Вывести количество цифр числа. Например,
+            // в числе 156 - 3 цифры.
+
+            Console.WriteLine("Enter a number:");
+            string numUser = Console.ReadLine();
+            int count = numUser.Length;
+            Console.WriteLine($"In the number {numUser} - {count} digits");
+        }
+    }
+}
